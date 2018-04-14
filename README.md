@@ -6,6 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Setting up
 
-- Run `npm install`,
-- Replace `YOUR_KEY` value by your [Google Maps JS Key](https://developers.google.com/maps/documentation/javascript/) in the [index.html](./src/index.html#L10) file,
-- Run `npm run serve` for a quick start on a development environment.
+- Run `npm install`
+- Replace `YOUR_KEY` value by your [Google Maps JS Key](https://developers.google.com/maps/documentation/javascript/) in the [index.html](./src/index.html#L10) file
+- Run `npm run serve` for a quick start on a development environment
