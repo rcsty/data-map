@@ -4,6 +4,12 @@ This project purpose is to demonstrate a simple map that can display some polygo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
+## Features
+
+- Displays polygons on Google Maps
+- Shows an info window when a polygon is clicked
+- Example with a "Score" value that is used to filter polygons and define a color for each area
+
 ## Setting up
 
 - Run `npm install`

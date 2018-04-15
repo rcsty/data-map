@@ -1,3 +1,20 @@
 .gmap {
   height: 100%;
 }
+
+.buttons {
+  position: absolute;
+  top: 8rem;
+  left: 1rem;
+  display: flex;
+  flex-direction: column;
+
+  button {
+    margin-bottom: .5rem;
+  }
+
+  hr {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
